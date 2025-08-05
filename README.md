@@ -21,13 +21,13 @@
 ---
 
 ## 📊 GitHub Stats
-![Ranganath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranganath2002&show_icons=true&theme=tokyonight)
+![Ranganath's GitHub stats](https://github-readme-stats.vercel.app/api?username=SureRanganath&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranganath2002&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SureRanganath&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sure-ranganath-5a1b84350/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)]
 
