@@ -7,7 +7,7 @@
 
 ---
 ### snake 🐍 
-<img src="https://raw.githubusercontent.com/SureRanganath/SureRanganath/output/snake.svg" alt="Snake animation" />
+![GitHub Snake](https://raw.githubusercontent.com/SureRanganath/SureRanganath/output/github-contribution-grid-snake.svg)
 ###
 
 ## 🧰 Tech Stack
