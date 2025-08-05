@@ -7,7 +7,7 @@
 
 ---
 ### snake 🐍 
-<img src="https://raw.githubusercontent.com/SureRanganath/SureRanganath/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SureRanganath/SureRanganath/output/snake.yml" alt="Snake animation" />
 
 ###
 
