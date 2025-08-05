@@ -6,6 +6,10 @@
 🛠️ Working on a project: "Analyze Social Media and Customer Reviews to Understand Public Sentiment About a Brand"
 
 ---
+### snake 🐍 
+<img src="https://raw.githubusercontent.com/SureRanganath/SureRanganath/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 🧰 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
