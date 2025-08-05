@@ -6,8 +6,9 @@
 🛠️ Working on a project: "Analyze Social Media and Customer Reviews to Understand Public Sentiment About a Brand"
 
 ---
-### snake 🐍 
-![GitHub Snake](https://raw.githubusercontent.com/SureRanganath/SureRanganath/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ###
 
 ## 🧰 Tech Stack
