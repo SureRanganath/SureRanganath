@@ -3,7 +3,6 @@
 🎓 4th year B.Tech student in Artificial Intelligence and Data Science  
 💡 Passionate about Machine Learning, Data Analytics, and Software Development  
 🌱 Currently learning Full Stack Development & DSA  
-🛠️ Working on a project: "Analyze Social Media and Customer Reviews to Understand Public Sentiment About a Brand"
 
 ---
 <div align="center">
